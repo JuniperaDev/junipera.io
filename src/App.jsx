@@ -342,7 +342,7 @@ function App() {
                   </div>
                   <div className="flex items-center">
                     <MapPin className="h-5 w-5 text-sky-500 mr-3" />
-                    <span className="text-gray-600">123 Cloud Avenue, Innovation City, CA 90210</span>
+                    <span className="text-gray-600">2108 N Street Suite N, Sacramento, CA 95816</span>
                   </div>
                 </div>
               </div>
