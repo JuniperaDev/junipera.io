@@ -32,11 +32,11 @@ function App() {
       <section className="relative overflow-hidden py-24 lg:py-32">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl font-bold text-gray-900 tracking-tight sm:text-5xl md:text-6xl">
-            AI-Powered Cloud Modernization
-            <span className="block text-sky-500 mt-2">for Enterprises</span>
+            Your AI Partner for
+            <span className="block text-sky-500 mt-2">Enterprise Evolution</span>
           </h1>
           <p className="mt-6 max-w-3xl mx-auto text-xl text-gray-600">
-            We empower enterprises to accelerate their digital transformation through intelligent cloud solutions and AI integration.
+            We develop secure, private AI solutions tailored to your enterprise's unique needs, empowering you to accelerate digital transformation with confidence.
           </p>
           <div className="mt-10">
             <a href="#contact">
@@ -57,7 +57,7 @@ function App() {
               What We Do
             </h2>
             <p className="mt-4 max-w-2xl mx-auto text-xl text-gray-600">
-              Comprehensive solutions for your cloud modernization journey
+              Custom AI solutions designed for your enterprise's unique challenges
             </p>
           </div>
 
@@ -128,7 +128,7 @@ function App() {
             About Junipera
           </h2>
           <p className="mt-6 text-xl text-gray-600 max-w-3xl mx-auto">
-            We are a collective of passionate AI specialists, cloud architects, and enterprise consultants dedicated to helping businesses navigate digital transformation. Our mission is to be your trusted partner, delivering innovative solutions that unlock the full potential of cloud technologies.
+            We are a collective of passionate AI specialists, cloud architects, and enterprise consultants dedicated to helping businesses navigate digital transformation. Our mission is to be your trusted partner, delivering secure, private, and customized AI solutions that unlock the full potential of modern technologies for your specific business needs.
           </p>
           <p className="mt-6 text-lg text-gray-600 max-w-3xl mx-auto">
             Through a collaborative approach, we work closely with your teams to foster knowledge transfer and build internal capabilities using agile methodologies that ensure flexibility and responsiveness.
@@ -144,7 +144,7 @@ function App() {
               Let's Start the Conversation
             </h2>
             <p className="mt-4 text-xl text-gray-600">
-              Ready to accelerate your cloud modernization journey?
+              Ready to accelerate your digital transformation?
             </p>
           </div>
 
@@ -180,7 +180,7 @@ function App() {
             <div>
               <img src={logoHorizontal} alt="Junipera" className="h-8 w-auto mb-4 brightness-0 invert" />
               <p className="text-gray-400">
-                Empowering enterprises to unlock their cloud potential through AI-powered modernization solutions.
+                Empowering enterprises with secure, custom AI solutions tailored to your unique business needs.
               </p>
             </div>
             <div>
